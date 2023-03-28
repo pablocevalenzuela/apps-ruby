@@ -28,6 +28,7 @@ class Word
         end     
     end 
 end     
+
 word = Word.new
 
 word.input('tfth')
