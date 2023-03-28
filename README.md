@@ -1,9 +1,10 @@
-# Auto Completado para Cliente de Correo Electrónico 
+# Plugin Auto Completed for e-mail Clients Open Sources
 
-## Descripción
-Es un Plugin escrito en Ruby que prentende ofrecer un autocompletado de las palabras
-más utilizadas en un correo electrónico.
+## Description
+Is a plugin in Ruby that reduces the time when writing a management email through the auto-completion of preloaded words.
 
-- ¿Motivación?
-Enviar un mail de gestión resta minutos de producción...
+
+
+- Motivations:
+More time to develop ideas and less time for bureaucracy.
 
