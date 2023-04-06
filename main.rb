@@ -11,19 +11,19 @@ class Word
         if @word_input.empty?
             puts @defaultMessage
         else
-         case @ac = @word_input
-            when "h"
-             puts "Hello"
+        case @ac = @word_input
+        when "h"
+            puts "Hello"
             when "hay"   
-             puts "How are you?"
+            puts "How are you?"
             when "ift"
-             puts "Is for today"
+            puts "Is for today"
             when "cm"
-                puts "¡Call me, please!."
+            puts "¡Call me, please!."
             when "tfth"
-                puts "¡Thank you for to be here!."
+            puts "¡Thank you for to be here!."
             else
-             puts "Unregistered acronyms."
+            puts "Unregistered acronyms."
          end    
         end     
     end 
